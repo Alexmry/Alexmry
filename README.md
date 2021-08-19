@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nft Squad](http://www.nftsquad.club/)
 
-- 🌱 I’m currently learning **JavaScript 30 days Challenge**
+- 🌱 I’m currently learning **JavaScript 30 days Challenge & ReactJS**
 
 - 📫 How to reach me **alexandreplmorey@gmail.com**
 
