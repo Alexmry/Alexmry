@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript 30 days Challenge & ReactJS**
 
+- 👨‍💻 All of my projects and more will soon be available at https://profilealexandre.herokuapp.com/
+
 - 📫 How to reach me **alexandreplmorey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
