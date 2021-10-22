@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nft Squad](http://www.nftsquad.club/)
 
-- 🌱 I’m currently learning **JavaScript 30 days Challenge & ReactJS**
+- 🌱 I’m currently learning **JavaScript 30 days Challenge & ReactJS & RSpec**
 
 - 👨‍💻 All of my projects and more will soon be available at https://profilealexandre.herokuapp.com/
 
