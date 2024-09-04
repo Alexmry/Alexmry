@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript 30 days Challenge & ReactJS & RSpec**
 
-- 👨‍💻 All of my projects and more will soon be available at https://profilealexandre.herokuapp.com/
+- 👨‍💻 All of my projects and more will soon be available at www.dearchappie.com
 
 - 📫 How to reach me **alexandreplmorey@gmail.com**
 
